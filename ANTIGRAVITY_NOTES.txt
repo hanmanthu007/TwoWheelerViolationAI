@@ -1,0 +1,5 @@
+Clean handoff package for Antigravity.
+Included: project source files, requirements, README, YOLO model weights, helmet model weights, and two sample images.
+Excluded: .git history, Python caches, duplicate __pycache__ archive, generated output images, prediction runs, and generated challan records.
+Install dependencies using: pip install -r requirements.txt
+Review README.md and the source files before changing the project.
